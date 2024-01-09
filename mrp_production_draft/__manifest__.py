@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': 'Draft Manufacturing Order',
-    'version': '12.0.1.1',
+    'version': '12.0.1.1.0',
     'summary': 'Draft State in Manufacturing Order',
     'description': """
     This module provides a draft state for manufacturing order instead of default first stage 'confirmed'.
