@@ -19,7 +19,7 @@
 ##############################################################################
 {
     'name': 'PDC Management',
-    'version': '12.0.1.0',
+    'version': '12.0.1.0.0',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
     'website': 'http://www.cybrosys.com',
