@@ -25,6 +25,7 @@
     'description': 'Payroll Advanced Features For Odoo 17 Community,'
                    'Payroll-Payslip Reporting, Automatic Mail During '
                    'Confirmation of Payslip, Mass Confirm Payslip ',
+    'version': '17.0.1.0.0',
     'category': 'Generic Modules/Human Resources',
     'author': 'Cybrosys Techno Solutions',
     'company': 'Cybrosys Techno Solutions',
