@@ -31,7 +31,7 @@
     'company': "Cybrosys Techno Solutions",
     'maintainer': "Cybrosys Techno Solutions",
     'category': 'Project',
-    'Version': '14.0.1.0.0',
+    'version': '14.0.1.0.0',
     'depends': ['base', 'project', 'sale_management', 'hr_timesheet'],
     'data': [
         'security/ir.model.access.csv',
