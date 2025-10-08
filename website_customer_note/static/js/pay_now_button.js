@@ -39,7 +39,9 @@ odoo.define('website_customer_note.payment_screen', require => {
             });
 
             // Reload the page to reflect changes
-            location.reload();
+            // Comment this line to allow continue with the process.
+            // the reload update the page and stop the process.
+            // location.reload();
         },
     });
 
